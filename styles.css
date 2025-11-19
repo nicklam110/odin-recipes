@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+
+.title {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 100px;
+}
+
+li.stir, li.beef, li.angel {
+    margin-bottom: 50px;
+    font-size: 25px;
+}

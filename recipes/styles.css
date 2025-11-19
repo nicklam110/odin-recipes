@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+
+img {
+    width: 500px;
+    height: 700px;
+    margin: 130px;
+}
+
+a {
+    margin: 200px;
+    padding: 200px;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
